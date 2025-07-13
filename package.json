@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Float07/test-jest/issues"
   },
-  "homepage": "https://github.com/Float07/test-jest#readme"
+  "homepage": "https://github.com/Float07/test-jest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
