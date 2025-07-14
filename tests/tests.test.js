@@ -1,5 +1,5 @@
-import { test, expect } from '@jest/globals';
-import { sum, multiply, brokenSum } from '../lib/math'
+const { test, expect } = require('@jest/globals');
+const { sum, multiply, brokenSum } = require('../lib/math');
 
 // Test sum
 test('adds 1 + 2 to equal to 3', () => expect(sum(1,2)).toBe(3));
