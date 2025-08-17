@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Float07/test-jest#readme",
   "devDependencies": {
+    "@faker-js/faker": "^9.9.0",
     "jest": "^29.7.0"
   },
   "dependencies": {
