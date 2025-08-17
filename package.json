@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A repo for practicing, testing and learning the Jest package",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "test": "jest"
   },
