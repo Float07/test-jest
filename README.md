@@ -4,7 +4,7 @@ A repo for practicing, testing and learning the [Jest package](https://jestjs.io
 # Usage
 Have npm and Node installed. Clone this repo into your machine and inside it run `npm i` to install dependencies. After that, you can run the tests like this:
 
-```console
+```bash
 # Run every test
 npm test
 
