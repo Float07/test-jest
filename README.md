@@ -30,9 +30,13 @@ An empty folder (except for a `.gitignore` file because of [reasons](https://sta
 
 # Tests
 ## `tests.test.js`
+A basic testing code to test the most [basic Jest functions](https://jestjs.io/docs/29.7/getting-started). One test here purposely fails to show how things look like when that happens.
 
 ## `passing-tests.test.js`
+Similar to the above, but without a failing test.
 
 ## `async-tests.test.js`
+Shows how we can [use Jest to test async code](https://jestjs.io/docs/29.7/asynchronous).
 
 ## `database-tests.test.js`
+Shows how we can [set up and teardown the environment before and after tests](https://jestjs.io/docs/29.7/setup-teardown). This uses a simple module that simulates a database (by saving and loading from a `.json` file).
